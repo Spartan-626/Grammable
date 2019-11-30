@@ -10,7 +10,7 @@ require 'rails_helper'
 #     end
 #   end
 # end
-RSpec.describe GramsHelper, type: :helper do
+RSpec.describe GramsController, type: :controller do
   describe "grams#index action" do
     it "should successfully show the page" do
       get :index
