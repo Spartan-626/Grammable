@@ -67,6 +67,8 @@ gem 'jquery-rails'
 gem 'popper_js'
 gem 'bootstrap'
 
+gem 'simple_form'
+
 source 'http://rails-assets.org' do
   gem 'rails-assets-tether'
 end
