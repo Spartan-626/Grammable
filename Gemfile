@@ -69,6 +69,8 @@ gem 'bootstrap'
 
 gem 'simple_form'
 
+gem 'devise'
+
 source 'http://rails-assets.org' do
   gem 'rails-assets-tether'
 end
