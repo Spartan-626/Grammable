@@ -7,6 +7,10 @@ class GramsController < ApplicationController
   
     def index
     end
+
+    def show
+        @gram = Gram.find(params[:id])
+    end
   
     def create
         @gram = current_user.grams.create(gram_params)
