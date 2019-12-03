@@ -73,6 +73,7 @@ gem 'simple_form'
 gem 'devise'
 
 gem 'carrierwave'
+gem 'figaro'
 
 source 'http://rails-assets.org' do
   gem 'rails-assets-tether'
