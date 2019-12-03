@@ -74,6 +74,7 @@ gem 'devise'
 
 gem 'carrierwave'
 gem 'figaro'
+gem 'fog-aws'
 
 source 'http://rails-assets.org' do
   gem 'rails-assets-tether'
