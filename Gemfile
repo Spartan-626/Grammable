@@ -72,6 +72,8 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'carrierwave'
+
 source 'http://rails-assets.org' do
   gem 'rails-assets-tether'
 end
